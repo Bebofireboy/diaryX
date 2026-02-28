@@ -1,2 +1,2 @@
 # diaryX
-This is just a random .batch file I created. And its free and open source, so please give it a try.
+This is a .batch file that is free and open source. It is a personal diary, and the data runs on your windows computer.
